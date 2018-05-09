@@ -1,0 +1,28 @@
+body{font-family:'Roboto',sans-serif;
+    background-color:#d46ccc85}
+
+.jumbotron{
+    background-color:#d46ccc85;
+}
+
+.row{
+  display:         flex;
+  flex-wrap: wrap;
+}
+
+#contenido{
+    padding-right: 340px;
+    background-color: rgb(255, 226, 253);
+    
+}
+
+#publicidad{
+    padding-right: 0;
+    position: absolute;
+    right: 0px;
+    width: 320px;
+    height: 615px;  
+    padding: 10px;
+    display: block;
+    background-color: rgb(133, 133, 200)
+}
