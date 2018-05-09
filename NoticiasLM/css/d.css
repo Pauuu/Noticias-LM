@@ -3,10 +3,20 @@ body{font-family:'Roboto',sans-serif;
 
 .jumbotron{
     background-color:#d46ccc85;
+    
+}
+
+.noticia{
+    padding-top: 10px;
+}
+
+.imagen{
+    height: 200px;
+    width: 300px; 
 }
 
 .row{
-  display:         flex;
+  display: flex;
   flex-wrap: wrap;
 }
 
